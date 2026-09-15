@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.3",
-  "publishedAt": "2026-09-15T13:37:13.1276272+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.3/Pouso-Setup-0.2.0-beta.3-win-x64.exe",
-  "sha256": "938D70E0C073D71A22BA4C5B647C4467436221562A0A03D7CFFD3E32F52DB8EC",
-  "sizeBytes": 54446339,
-  "releaseNotes": "Nova identificação visual para PDF, imagens, planilhas, textos e outros formatos; cartões mais compactos, seleção de envio explícita e base Free/Pro liberada durante o beta."
+  "version": "0.2.0-beta.4",
+  "publishedAt": "2026-09-15T13:55:09.5246372+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.4/Pouso-Setup-0.2.0-beta.4-win-x64.exe",
+  "sha256": "FD722DECB349CAAB834F0B3D384500F774139137731BD0A6E17565F574092A7A",
+  "sizeBytes": 54435284,
+  "releaseNotes": "Hotfix: corrige o encerramento inesperado ao fechar a pré-visualização de CSV ou de outro arquivo quando a janela perde o foco."
 }
