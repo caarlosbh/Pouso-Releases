@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.2",
-  "publishedAt": "2026-09-15T12:50:24.4712740+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.2/Pouso-Setup-0.2.0-beta.2-win-x64.exe",
-  "sha256": "1363559AB068A7447DC289E6B04ADC747EFE8E777A43326C524A5EB6CF11950C",
-  "sizeBytes": 54423238,
-  "releaseNotes": "Primeira versão conectada ao canal público oficial. Atualizações com confirmação explícita, validação de tamanho e SHA-256."
+  "version": "0.2.0-beta.3",
+  "publishedAt": "2026-09-15T13:37:13.1276272+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.3/Pouso-Setup-0.2.0-beta.3-win-x64.exe",
+  "sha256": "938D70E0C073D71A22BA4C5B647C4467436221562A0A03D7CFFD3E32F52DB8EC",
+  "sizeBytes": 54446339,
+  "releaseNotes": "Nova identificação visual para PDF, imagens, planilhas, textos e outros formatos; cartões mais compactos, seleção de envio explícita e base Free/Pro liberada durante o beta."
 }
