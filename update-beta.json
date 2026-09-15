@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.6",
-  "publishedAt": "2026-09-15T14:29:25.0914370+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.6/Pouso-Setup-0.2.0-beta.6-win-x64.exe",
-  "sha256": "DC38A60BCDDF620C94A2BF3A6932A211DA759A7753BA24959FD02F1E888C4472",
-  "sizeBytes": 54446743,
-  "releaseNotes": "Busca instantânea e filtro por categoria na prateleira; Ctrl+F; estado sem resultados; seleção, arraste e envio respeitam somente os itens visíveis."
+  "version": "0.2.0-beta.7",
+  "publishedAt": "2026-09-15T14:56:59.2608069+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.7/Pouso-Setup-0.2.0-beta.7-win-x64.exe",
+  "sha256": "193E9E530AAED1A0070391C8747EE2975CE67264BBCE571E29B91C2F045C5A64",
+  "sizeBytes": 54445903,
+  "releaseNotes": "Clique único abre a prateleira atual; manter o ponteiro sobre o ícone mostra a troca rápida entre prateleiras recentes; o menu da bandeja também permite alternar diretamente."
 }
