@@ -1,14 +1,21 @@
-# Pouso 0.2.0-beta.14
+# Pouso 0.2.0-beta.16
 
-Acessibilidade e operação completa por teclado no Windows.
+Triagem inteligente e ações rápidas para organizar e reutilizar conteúdo.
 
 ## Novidades
 
-- O Alto Contraste do Windows tem prioridade automática sobre os temas claro e escuro.
-- Fundos, textos, bordas, seleção, foco e botões principais acompanham as cores semânticas do sistema.
-- Os cartões informam nome, tipo e tamanho para leitores de tela, e estados importantes usam regiões ativas.
-- Na lista, as setas navegam; `Espaço` ou `Enter` visualiza/abre; `Delete` remove; `Ctrl+A` seleciona os itens visíveis.
-- `Ctrl+F` abre a pesquisa e `Esc` limpa filtros antes de ocultar a prateleira.
-- A tela de configurações resume os atalhos disponíveis.
+- Classificação automática por MIME, extensão, categoria, tags e linguagem de código.
+- Links recebem título, domínio e imagem Open Graph em segundo plano.
+- A busca encontra nome, conteúdo, título, domínio, MIME, linguagem e tags.
+- Itens importantes podem ser fixados no topo e imagens exibem dimensões.
+- Markdown e arquivos de código ganham pré-visualização formatada.
+- Novas ações rápidas: copiar link como Markdown, comprimir imagem para Web e criar ZIP da seleção.
+- Inclui a recepção direta de anexos do Gmail arrastados do Chrome ou Edge.
+
+## Privacidade
+
+- O enriquecimento de links não usa cookies nem credenciais e bloqueia endereços locais ou privados.
+- As imagens de capa ficam em cache descartável no computador.
+- Compressão e ZIP são locais; nada é enviado sem confirmação explícita.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
