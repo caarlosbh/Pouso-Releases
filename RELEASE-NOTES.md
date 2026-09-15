@@ -1,13 +1,13 @@
-# Pouso 0.2.0-beta.7
+# Pouso 0.2.0-beta.8
 
-Acesso mais direto às prateleiras pela bandeja do Windows.
+Soltura de arquivos e pastas em toda a superfície da prateleira.
 
 ## Alterações
 
-- Um clique no ícone da bandeja abre imediatamente a prateleira atual.
-- Manter o ponteiro brevemente sobre o ícone mostra até cinco prateleiras recentes.
-- O seletor rápido permite alternar, criar uma nova prateleira ou abrir o gerenciamento completo.
-- O menu tradicional da bandeja agora oferece troca direta e indica qual prateleira está aberta.
-- O atalho `Win + Shift + Espaço` e as rotas anteriores continuam disponíveis.
+- Toda a janela do Pouso agora aceita arquivos e pastas arrastados do Windows.
+- É possível soltar sobre o cabeçalho, busca, lista, cartões, rodapé ou qualquer espaço vazio.
+- Uma confirmação visual cobre a superfície completa durante o arraste.
+- Conteúdos incompatíveis continuam sendo recusados sem alterar a prateleira.
+- Arquivos já presentes continuam sem ser duplicados.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
