@@ -1,21 +1,14 @@
-# Pouso 0.2.0-beta.12
+# Pouso 0.2.0-beta.13
 
-Recuperação segura de envios interrompidos para o Google Drive.
+Recuperação de uploads acessível diretamente em **Seus envios**.
 
 ## Novidades
 
-- O Pouso identifica uploads pendentes na próxima abertura e oferece **Retomar**, **Recomeçar** ou **Descartar**.
-- A retomada reconcilia arquivos e pastas já confirmados no Drive e envia somente o que falta.
-- Um arquivo interrompido no meio da transferência é reenviado desde o início; os demais arquivos confirmados não são duplicados.
-- Cada item remoto recebe um marcador privado e determinístico para impedir duplicação durante a recuperação.
-- Uma permissão pública criada antes de uma queda de conexão é reconhecida antes que outra seja solicitada.
-- Arquivos locais são conferidos por caminho, tamanho e data de modificação antes da retomada.
-- Recomeçar cria uma nova pasta sem apagar a tentativa parcial; descartar remove somente o checkpoint local.
-
-## Segurança e privacidade
-
-- Nenhum arquivo ou pasta do Google Drive é apagado pela recuperação.
-- A sessão pendente não armazena tokens nem o segredo OAuth e é removida depois da conclusão ou do descarte.
-- Nomes, caminhos e textos do envio ficam somente no computador enquanto forem necessários para uma possível retomada.
+- Cartões com checkpoint disponível exibem **Retomar**, **Recomeçar** e **Descartar**.
+- Depois de cancelar um upload, o Pouso abre **Seus envios** automaticamente e mostra a ação de retomada.
+- O cartão diferencia visualmente envios interrompidos com recuperação disponível de registros antigos sem checkpoint.
+- Ao terminar uma retomada, o histórico é recarregado e o mesmo cartão passa ao estado de link público criado.
+- Recomeçar e descartar exigem confirmação e deixam explícito que nenhum arquivo será apagado do Google Drive.
+- A janela bloqueia ações concorrentes enquanto a recuperação está em andamento.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
