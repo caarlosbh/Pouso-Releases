@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.5",
-  "publishedAt": "2026-09-15T14:07:41.9142534+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.5/Pouso-Setup-0.2.0-beta.5-win-x64.exe",
-  "sha256": "9AAAA73855C9026473FD07FD298FEB3067B4CAB2AE6AB9A9F665613D89550ED0",
-  "sizeBytes": 54438905,
-  "releaseNotes": "Mais estabilidade: falhas recuperáveis não encerram o Pouso; diagnóstico local copiável e privado; testes adicionais para CSV bloqueado e codificação incomum."
+  "version": "0.2.0-beta.6",
+  "publishedAt": "2026-09-15T14:29:25.0914370+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.6/Pouso-Setup-0.2.0-beta.6-win-x64.exe",
+  "sha256": "DC38A60BCDDF620C94A2BF3A6932A211DA759A7753BA24959FD02F1E888C4472",
+  "sizeBytes": 54446743,
+  "releaseNotes": "Busca instantânea e filtro por categoria na prateleira; Ctrl+F; estado sem resultados; seleção, arraste e envio respeitam somente os itens visíveis."
 }
