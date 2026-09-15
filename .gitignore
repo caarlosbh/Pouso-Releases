@@ -1,0 +1,3 @@
+# O instalador é publicado como asset de uma Release, não como parte do histórico Git.
+*.exe
+*.download
