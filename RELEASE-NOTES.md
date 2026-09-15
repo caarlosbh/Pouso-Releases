@@ -1,13 +1,13 @@
-# Pouso 0.2.0-beta.8
+# Pouso 0.2.0-beta.9
 
-Soltura de arquivos e pastas em toda a superfície da prateleira.
+Modo noturno completo e aparência sincronizada com o Windows.
 
 ## Alterações
 
-- Toda a janela do Pouso agora aceita arquivos e pastas arrastados do Windows.
-- É possível soltar sobre o cabeçalho, busca, lista, cartões, rodapé ou qualquer espaço vazio.
-- Uma confirmação visual cobre a superfície completa durante o arraste.
-- Conteúdos incompatíveis continuam sendo recusados sem alterar a prateleira.
-- Arquivos já presentes continuam sem ser duplicados.
+- Nova escolha **Aparência**: **Usar o Windows**, **Claro** ou **Escuro**.
+- A mudança é imediata e permanece salva entre reinicializações.
+- Prateleira, busca, cartões, seleções, rolagem e janelas auxiliares usam a nova paleta.
+- Cores dos tipos de arquivo foram adaptadas para fundos escuros.
+- Menu da bandeja e moldura nativa do Windows também recebem tratamento escuro.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
