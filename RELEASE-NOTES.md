@@ -1,13 +1,14 @@
-# Pouso 0.2.0-beta.10
+# Pouso 0.2.0-beta.11
 
-Troca rápida diretamente no botão de prateleiras da janela.
+Anexos virtuais do Windows passam a entrar diretamente na prateleira.
 
 ## Alterações
 
-- Manter o mouse brevemente sobre o botão de dois traços mostra até cinco prateleiras recentes.
-- O seletor aparece alinhado ao botão e permanece aberto durante o movimento do ponteiro até a lista.
-- É possível alternar de prateleira, criar uma nova ou abrir o gerenciamento completo.
-- Sair do botão e do seletor fecha a lista automaticamente.
-- Clicar no botão continua abrindo o gerenciamento completo.
+- Copiar e colar anexos do Outlook e de aplicativos compatíveis agora cria arquivos locais duráveis no Pouso.
+- Arrastar esses anexos para qualquer área da janela usa o mesmo fluxo.
+- Vários anexos podem ser materializados na mesma operação.
+- Nome, extensão, categoria visual, pré-visualização e envio ao Google Drive continuam funcionando após a cópia.
+- A gravação é atômica, confere o tamanho fornecido pela origem e limpa a tentativa se algum item falhar.
+- Pastas virtuais ainda não são materializadas; solte os arquivos contidos nelas.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
