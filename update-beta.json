@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.17",
-  "publishedAt": "2026-09-15T22:28:09.2799453+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.17/Pouso-Setup-0.2.0-beta.17-win-x64.exe",
-  "sha256": "0477128310DD51FD314885AFDE5AF9F10E4A0A60EAD637FC64F78E6CFEF69BA0",
-  "sizeBytes": 58196196,
-  "releaseNotes": "OCR nativo e local pesquisável em imagens; a abertura automática pela aproximação do ícone da bandeja foi removida."
+  "version": "0.2.0-beta.20",
+  "publishedAt": "2026-09-15T23:38:24.6855977+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.20/Pouso-Setup-0.2.0-beta.20-win-x64.exe",
+  "sha256": "1AAE0E0D5B7D1A259D7BC4F9886FDFBF4AAF1DD6C146E9447B55D29113D3BD8E",
+  "sizeBytes": 58191900,
+  "releaseNotes": "Agrupamento automático por tipo, envio de arquivos e pastas pelo menu do Explorer, menu de ações refinado e correção do seletor rápido de prateleiras."
 }
