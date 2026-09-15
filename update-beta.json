@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.4",
-  "publishedAt": "2026-09-15T13:55:09.5246372+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.4/Pouso-Setup-0.2.0-beta.4-win-x64.exe",
-  "sha256": "FD722DECB349CAAB834F0B3D384500F774139137731BD0A6E17565F574092A7A",
-  "sizeBytes": 54435284,
-  "releaseNotes": "Hotfix: corrige o encerramento inesperado ao fechar a pré-visualização de CSV ou de outro arquivo quando a janela perde o foco."
+  "version": "0.2.0-beta.5",
+  "publishedAt": "2026-09-15T14:07:41.9142534+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.5/Pouso-Setup-0.2.0-beta.5-win-x64.exe",
+  "sha256": "9AAAA73855C9026473FD07FD298FEB3067B4CAB2AE6AB9A9F665613D89550ED0",
+  "sizeBytes": 54438905,
+  "releaseNotes": "Mais estabilidade: falhas recuperáveis não encerram o Pouso; diagnóstico local copiável e privado; testes adicionais para CSV bloqueado e codificação incomum."
 }
