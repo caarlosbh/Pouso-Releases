@@ -1,14 +1,14 @@
-# Pouso 0.2.0-beta.13
+# Pouso 0.2.0-beta.14
 
-Recuperação de uploads acessível diretamente em **Seus envios**.
+Acessibilidade e operação completa por teclado no Windows.
 
 ## Novidades
 
-- Cartões com checkpoint disponível exibem **Retomar**, **Recomeçar** e **Descartar**.
-- Depois de cancelar um upload, o Pouso abre **Seus envios** automaticamente e mostra a ação de retomada.
-- O cartão diferencia visualmente envios interrompidos com recuperação disponível de registros antigos sem checkpoint.
-- Ao terminar uma retomada, o histórico é recarregado e o mesmo cartão passa ao estado de link público criado.
-- Recomeçar e descartar exigem confirmação e deixam explícito que nenhum arquivo será apagado do Google Drive.
-- A janela bloqueia ações concorrentes enquanto a recuperação está em andamento.
+- O Alto Contraste do Windows tem prioridade automática sobre os temas claro e escuro.
+- Fundos, textos, bordas, seleção, foco e botões principais acompanham as cores semânticas do sistema.
+- Os cartões informam nome, tipo e tamanho para leitores de tela, e estados importantes usam regiões ativas.
+- Na lista, as setas navegam; `Espaço` ou `Enter` visualiza/abre; `Delete` remove; `Ctrl+A` seleciona os itens visíveis.
+- `Ctrl+F` abre a pesquisa e `Esc` limpa filtros antes de ocultar a prateleira.
+- A tela de configurações resume os atalhos disponíveis.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.

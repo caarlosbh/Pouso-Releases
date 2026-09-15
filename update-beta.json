@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.13",
-  "publishedAt": "2026-09-15T19:08:12.2198934+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.13/Pouso-Setup-0.2.0-beta.13-win-x64.exe",
-  "sha256": "5B82E33AAF5E611034C5DE16359ED7CC72D6CB76879DEA73BFBFB5566B0942D4",
-  "sizeBytes": 54471790,
-  "releaseNotes": "Retome, recomece ou descarte uploads interrompidos diretamente em Seus envios; após cancelar, o Pouso abre o cartão de recuperação automaticamente."
+  "version": "0.2.0-beta.14",
+  "publishedAt": "2026-09-15T19:50:27.2267573+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.14/Pouso-Setup-0.2.0-beta.14-win-x64.exe",
+  "sha256": "56211D5954D39406D21F02158336A00E4B7152CE8564FF050819F6ABAEC7FB4D",
+  "sizeBytes": 54480209,
+  "releaseNotes": "Acessibilidade no Windows: alto contraste nativo, navegação completa por teclado e melhor suporte a leitores de tela."
 }
