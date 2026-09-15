@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.8",
-  "publishedAt": "2026-09-15T15:03:40.9699870+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.8/Pouso-Setup-0.2.0-beta.8-win-x64.exe",
-  "sha256": "55BCC033686CB0EF78A6E2D59C1E5A6D8C60E3EA9DC75C92994EAF724634E9EC",
-  "sizeBytes": 54448770,
-  "releaseNotes": "Toda a janela aceita arquivos e pastas arrastados; a superfície completa mostra confirmação visual durante a soltura."
+  "version": "0.2.0-beta.9",
+  "publishedAt": "2026-09-15T15:17:10.8944979+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.9/Pouso-Setup-0.2.0-beta.9-win-x64.exe",
+  "sha256": "15B48378896CCAD8FF7FA4AE4156D28BC3E830CE8E399276322CCF50FE3A8AE3",
+  "sizeBytes": 54440501,
+  "releaseNotes": "Modo noturno completo, tema claro e opção automática sincronizada com a aparência do Windows, aplicados imediatamente nas janelas e na bandeja."
 }
