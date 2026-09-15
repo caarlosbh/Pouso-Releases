@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.12",
-  "publishedAt": "2026-09-15T18:09:34.7452381+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.12/Pouso-Setup-0.2.0-beta.12-win-x64.exe",
-  "sha256": "D37491E1148D1A3A5332AD1F97D5DB25036281DBC612A83599B39318396E23E1",
-  "sizeBytes": 54475304,
-  "releaseNotes": "Recupere uploads interrompidos com conferência dos arquivos já confirmados no Google Drive, sem duplicar conteúdo nem apagar a tentativa parcial."
+  "version": "0.2.0-beta.13",
+  "publishedAt": "2026-09-15T19:08:12.2198934+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.13/Pouso-Setup-0.2.0-beta.13-win-x64.exe",
+  "sha256": "5B82E33AAF5E611034C5DE16359ED7CC72D6CB76879DEA73BFBFB5566B0942D4",
+  "sizeBytes": 54471790,
+  "releaseNotes": "Retome, recomece ou descarte uploads interrompidos diretamente em Seus envios; após cancelar, o Pouso abre o cartão de recuperação automaticamente."
 }
