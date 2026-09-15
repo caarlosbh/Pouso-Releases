@@ -1,14 +1,11 @@
-# Pouso 0.2.0-beta.3
+# Pouso 0.2.0-beta.4
 
-Atualização visual da prateleira e preparação do modelo Free e Pro.
+Hotfix de estabilidade da pré-visualização.
 
-## Alterações
+## Correções
 
-- Cores, siglas e descrições distintas para os principais tipos de arquivo.
-- Miniaturas mantidas para imagens, com identificação visual acessível.
-- Cartões mais compactos e controles superiores mais discretos.
-- Área para novos arquivos reduzida quando a prateleira já contém itens.
-- Seleção informa quantos arquivos serão enviados.
-- Estrutura inicial de planos Free e Pro, com todos os recursos liberados durante o beta.
+- Corrige o encerramento inesperado do Pouso ao visualizar um CSV e a janela perder o foco.
+- Impede pedidos simultâneos de fechamento pelo teclado, pelo botão e pelo clique fora da prévia.
+- Mantém a pré-visualização local de CSV, texto, imagem e PDF sem alterar os arquivos originais.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
