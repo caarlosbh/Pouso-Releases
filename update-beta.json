@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.7",
-  "publishedAt": "2026-09-15T14:56:59.2608069+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.7/Pouso-Setup-0.2.0-beta.7-win-x64.exe",
-  "sha256": "193E9E530AAED1A0070391C8747EE2975CE67264BBCE571E29B91C2F045C5A64",
-  "sizeBytes": 54445903,
-  "releaseNotes": "Clique único abre a prateleira atual; manter o ponteiro sobre o ícone mostra a troca rápida entre prateleiras recentes; o menu da bandeja também permite alternar diretamente."
+  "version": "0.2.0-beta.8",
+  "publishedAt": "2026-09-15T15:03:40.9699870+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.8/Pouso-Setup-0.2.0-beta.8-win-x64.exe",
+  "sha256": "55BCC033686CB0EF78A6E2D59C1E5A6D8C60E3EA9DC75C92994EAF724634E9EC",
+  "sizeBytes": 54448770,
+  "releaseNotes": "Toda a janela aceita arquivos e pastas arrastados; a superfície completa mostra confirmação visual durante a soltura."
 }
