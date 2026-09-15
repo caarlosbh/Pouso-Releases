@@ -1,14 +1,21 @@
-# Pouso 0.2.0-beta.11
+# Pouso 0.2.0-beta.12
 
-Anexos virtuais do Windows passam a entrar diretamente na prateleira.
+Recuperação segura de envios interrompidos para o Google Drive.
 
-## Alterações
+## Novidades
 
-- Copiar e colar anexos do Outlook e de aplicativos compatíveis agora cria arquivos locais duráveis no Pouso.
-- Arrastar esses anexos para qualquer área da janela usa o mesmo fluxo.
-- Vários anexos podem ser materializados na mesma operação.
-- Nome, extensão, categoria visual, pré-visualização e envio ao Google Drive continuam funcionando após a cópia.
-- A gravação é atômica, confere o tamanho fornecido pela origem e limpa a tentativa se algum item falhar.
-- Pastas virtuais ainda não são materializadas; solte os arquivos contidos nelas.
+- O Pouso identifica uploads pendentes na próxima abertura e oferece **Retomar**, **Recomeçar** ou **Descartar**.
+- A retomada reconcilia arquivos e pastas já confirmados no Drive e envia somente o que falta.
+- Um arquivo interrompido no meio da transferência é reenviado desde o início; os demais arquivos confirmados não são duplicados.
+- Cada item remoto recebe um marcador privado e determinístico para impedir duplicação durante a recuperação.
+- Uma permissão pública criada antes de uma queda de conexão é reconhecida antes que outra seja solicitada.
+- Arquivos locais são conferidos por caminho, tamanho e data de modificação antes da retomada.
+- Recomeçar cria uma nova pasta sem apagar a tentativa parcial; descartar remove somente o checkpoint local.
+
+## Segurança e privacidade
+
+- Nenhum arquivo ou pasta do Google Drive é apagado pela recuperação.
+- A sessão pendente não armazena tokens nem o segredo OAuth e é removida depois da conclusão ou do descarte.
+- Nomes, caminhos e textos do envio ficam somente no computador enquanto forem necessários para uma possível retomada.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
