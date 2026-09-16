@@ -1,3 +1,23 @@
+# Pouso 0.2.0-beta.24
+
+## Nova experiência de prateleira
+
+- Janela compacta por padrão, com expansão em grade ou lista.
+- Busca, filtros, agrupamento, seleção e ordenação.
+- Extensões visíveis nos nomes longos.
+- Menu de prateleiras e ações gerais reorganizados.
+- Tarefas no ícone da barra do Windows; painel ao clicar na bandeja.
+- Fechar oculta a prateleira. Atalho global Ctrl+Alt+P.
+
+## Validação desta beta
+
+- 188 testes automatizados e 190 verificações de renderização WPF.
+- Instalação, abertura e expansão conferidas em Windows.
+- Múltiplos monitores e fluxos completos de arrastar/enviar ainda precisam de validação manual.
+- Instalador sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.22
 
 ## Recebimento direto do celular
