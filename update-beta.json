@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.20",
-  "publishedAt": "2026-09-15T23:38:24.6855977+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.20/Pouso-Setup-0.2.0-beta.20-win-x64.exe",
-  "sha256": "1AAE0E0D5B7D1A259D7BC4F9886FDFBF4AAF1DD6C146E9447B55D29113D3BD8E",
-  "sizeBytes": 58191900,
-  "releaseNotes": "Agrupamento automático por tipo, envio de arquivos e pastas pelo menu do Explorer, menu de ações refinado e correção do seletor rápido de prateleiras."
+  "version": "0.2.0-beta.21",
+  "publishedAt": "2026-09-16T00:25:44.3290729Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.21/Pouso-Setup-0.2.0-beta.21-win-x64.exe",
+  "sha256": "0A6933CB026A62778CE2A20D21E0CC632A3EB12EDE8B23D3EDD8028BE22F15E2",
+  "sizeBytes": 58195792,
+  "releaseNotes": "Caixa de entrada privada pelo Google Drive para receber arquivos do celular, estrutura unificada Pouso/Entrada, Pouso/Envios e Pouso/Prateleiras, com deduplicação e preservação dos originais."
 }
