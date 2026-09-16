@@ -1,22 +1,21 @@
-# Pouso 0.2.0-beta.21
+# Pouso 0.2.0-beta.22
 
-## Caixa de entrada do celular
+## Recebimento direto do celular
 
-- Nova ação **Receber do celular** no menu da bandeja.
-- Arquivos colocados em **Pouso > Entrada** no Google Drive são importados para a prateleira aberta.
-- Os originais permanecem no Drive e downloads incompletos não entram na prateleira.
-- Identidade e versão remotas são registradas localmente para evitar duplicações.
+- Novo botão **Receber do celular** no cabeçalho da prateleira.
+- Arquivos enviados pelo Pouso Web entram na prateleira aberta como cópias gerenciadas.
+- Os cartões importados recebem o selo **RECEBIDO** e informam a origem Google Drive.
 
-## Organização no Google Drive
+## Sincronização discreta
 
-- Nova pasta principal **Pouso**, com as áreas **Entrada**, **Envios** e **Prateleiras**.
-- Novos links públicos passam a ser criados em **Pouso > Envios**.
-- As antigas pastas **Pouso - Envios** são preservadas para não quebrar links existentes.
+- Depois da primeira conexão, o Pouso confere **Pouso > Entrada** a cada três minutos.
+- Novos itens geram uma notificação do Windows sem trazer a janela para frente.
+- Identidade e versão remotas continuam registradas localmente para evitar duplicações.
+- Os arquivos originais nunca são alterados ou apagados do Google Drive.
 
-## Privacidade e validação
+## Validação
 
-- A caixa de entrada usa autorização Google separada e importa somente os itens de **Pouso > Entrada**.
-- Nenhum arquivo original do Google Drive é alterado ou apagado durante o recebimento.
-- 176 testes automatizados aprovados.
+- 177 testes automatizados aprovados.
+- Instalador e manifesto verificados por SHA-256.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.

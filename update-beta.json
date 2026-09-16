@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.21",
-  "publishedAt": "2026-09-16T00:25:44.3290729Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.21/Pouso-Setup-0.2.0-beta.21-win-x64.exe",
-  "sha256": "0A6933CB026A62778CE2A20D21E0CC632A3EB12EDE8B23D3EDD8028BE22F15E2",
-  "sizeBytes": 58195792,
-  "releaseNotes": "Caixa de entrada privada pelo Google Drive para receber arquivos do celular, estrutura unificada Pouso/Entrada, Pouso/Envios e Pouso/Prateleiras, com deduplicação e preservação dos originais."
+  "version": "0.2.0-beta.22",
+  "publishedAt": "2026-09-16T01:04:29.2338420+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.22/Pouso-Setup-0.2.0-beta.22-win-x64.exe",
+  "sha256": "A83745BBD27DD535E758B0C1F305947FD02566CA5082189CDB89D9985A70C105",
+  "sizeBytes": 58198833,
+  "releaseNotes": "Recebimento direto do iPhone: botão na prateleira, selo RECEBIDO, verificação periódica e notificação do Windows."
 }
