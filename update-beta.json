@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.26",
-  "publishedAt": "2026-09-16T21:53:21+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.26/Pouso-Setup-0.2.0-beta.26-win-x64.exe",
-  "sha256": "A20FBA3E8C777BDAD4A5AF8CD63B58D99C4C2BCFCF8C581B8D51F94928B86CDF",
-  "sizeBytes": 58224643,
-  "releaseNotes": "Aprimoramentos da prateleira compacta: alça superior exclusiva para mover a janela; seletor visual de prateleiras aberto somente ao clicar no nome; abertura automática por aproximação removida; botão Ver itens reduzido e centralizado. Beta para teste pessoal; instalador sem assinatura digital."
+  "version": "0.2.0-beta.29",
+  "publishedAt": "2026-09-16T22:12:47+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.29/Pouso-Setup-0.2.0-beta.29-win-x64.exe",
+  "sha256": "6CDE23A769588C84EA015FFED75E8E5EA09FBA3FD96643C467F84E7A4F620ADE",
+  "sizeBytes": 58214918,
+  "releaseNotes": "Novo botão de colar no cabeçalho. Win+Alt+P cola diretamente no Pouso e mostra a prateleira; Ctrl+Alt+P continua apenas abrindo o aplicativo. Inclui a correção do fechamento duplicado do seletor. Beta para teste pessoal; instalador sem assinatura digital."
 }

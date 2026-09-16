@@ -1,3 +1,20 @@
+# Pouso 0.2.0-beta.29
+
+## Colar diretamente no Pouso
+
+- Novo ícone de colar sempre disponível no cabeçalho da prateleira.
+- **Win + Alt + P** cola arquivos, imagens ou texto no Pouso e mostra a prateleira.
+- **Ctrl + Alt + P** continua apenas abrindo o aplicativo.
+- Proteção contra fechamento duplicado do seletor de prateleiras.
+
+## Validação desta beta
+
+- 188 testes automatizados aprovados.
+- Layout compacto verificado em múltiplas escalas do Windows.
+- Instalador sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.26
 
 ## Refinamentos da prateleira compacta
