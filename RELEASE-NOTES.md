@@ -1,3 +1,20 @@
+# Pouso 0.2.0-beta.26
+
+## Refinamentos da prateleira compacta
+
+- Alça superior dedicada para mover a janela sem conflitar com os demais controles.
+- Clique no nome abre o seletor visual das prateleiras recentes.
+- Abertura automática por aproximação removida.
+- Botão **Ver itens** compacto e centralizado.
+
+## Validação desta beta
+
+- 188 testes automatizados e 197 verificações de renderização WPF.
+- Instalação e interação conferidas em Windows.
+- Instalador sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.24
 
 ## Nova experiência de prateleira
