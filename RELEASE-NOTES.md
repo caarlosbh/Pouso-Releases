@@ -1,3 +1,23 @@
+# Pouso 0.2.0-beta.34
+
+## Destinos por computador e prateleira
+
+- O Windows publica em `Pouso/Prateleiras` um catálogo mínimo dos destinos deste computador.
+- O iPhone e o Mac poderão escolher o computador e a prateleira usando o novo contrato do Drive.
+- Destinos válidos entram diretamente na prateleira, sem gerar regra automática.
+- Uma prateleira removida causa fallback seguro para a Caixa de entrada.
+- Arquivos destinados a outro computador permanecem disponíveis no Drive e não são baixados.
+- Arquivos antigos continuam usando normalmente a Caixa de entrada e as regras locais aceitas.
+
+## Validação desta beta
+
+- 209 testes automatizados aprovados.
+- Migração preserva a deduplicação e cria uma identidade estável para o computador.
+- O catálogo não contém itens, caminhos, conteúdo, OCR, tags ou credenciais.
+- Instalador sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.29
 
 ## Colar diretamente no Pouso

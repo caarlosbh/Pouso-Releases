@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.29",
-  "publishedAt": "2026-09-16T22:12:47+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.29/Pouso-Setup-0.2.0-beta.29-win-x64.exe",
-  "sha256": "6CDE23A769588C84EA015FFED75E8E5EA09FBA3FD96643C467F84E7A4F620ADE",
-  "sizeBytes": 58214918,
-  "releaseNotes": "Novo botão de colar no cabeçalho. Win+Alt+P cola diretamente no Pouso e mostra a prateleira; Ctrl+Alt+P continua apenas abrindo o aplicativo. Inclui a correção do fechamento duplicado do seletor. Beta para teste pessoal; instalador sem assinatura digital."
+  "version": "0.2.0-beta.34",
+  "publishedAt": "2026-09-17T20:59:35.2805869Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.34/Pouso-Setup-0.2.0-beta.34-win-x64.exe",
+  "sha256": "2E4BBA5F3E6804402EDB2B6126AFF6E7214CB3529A362675A0CEBB1C8D5D822C",
+  "sizeBytes": 58231442,
+  "releaseNotes": "Destinos por dispositivo e prateleira: o Windows publica um catálogo mínimo no Drive, respeita destinos explícitos, ignora itens de outros computadores e mantém compatibilidade com arquivos antigos. Beta para teste pessoal; instalador sem assinatura digital."
 }
