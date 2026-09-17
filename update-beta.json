@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.34",
-  "publishedAt": "2026-09-17T20:59:35.2805869Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.34/Pouso-Setup-0.2.0-beta.34-win-x64.exe",
-  "sha256": "2E4BBA5F3E6804402EDB2B6126AFF6E7214CB3529A362675A0CEBB1C8D5D822C",
-  "sizeBytes": 58231442,
-  "releaseNotes": "Destinos por dispositivo e prateleira: o Windows publica um catálogo mínimo no Drive, respeita destinos explícitos, ignora itens de outros computadores e mantém compatibilidade com arquivos antigos. Beta para teste pessoal; instalador sem assinatura digital."
+  "version": "0.2.0-beta.35",
+  "publishedAt": "2026-09-17T23:52:29.7592209Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.35/Pouso-Setup-0.2.0-beta.35-win-x64.exe",
+  "sha256": "CE3342D2A78941A24837EE6EC1DA794BF2A5A6A6C91DF1A7C96B23F61AE05A41",
+  "sizeBytes": 58246475,
+  "releaseNotes": "Envio interno entre computadores: escolha Mac e prateleira sem criar link público, com cópia durável, fila recuperável e reconciliação contra duplicações. Beta para teste pessoal; instalador sem assinatura digital."
 }

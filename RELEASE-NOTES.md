@@ -1,3 +1,21 @@
+# Pouso 0.2.0-beta.35
+
+## Envio interno para outro computador
+
+- **Enviar para…** escolhe computador e prateleira sem criar link público.
+- Arquivos, textos e links são preparados como cópias duráveis e enviados para `Pouso/Entrada`.
+- A fila pode ser retomada depois de uma falha e reconcilia repetições sem duplicar o arquivo remoto.
+- Catálogos incoerentes, duplicados ou destinos removidos interrompem o envio com segurança.
+- Pastas continuam desabilitadas nesta primeira entrega.
+
+## Validação desta beta
+
+- 219 testes automatizados aprovados.
+- Layout verificado entre 100% e 200%, nos temas claro, escuro e alto contraste.
+- Instalador sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.34
 
 ## Destinos por computador e prateleira
