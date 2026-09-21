@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.39",
-  "publishedAt": "2026-09-21T21:12:59Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.39/Pouso-Setup-0.2.0-beta.39-win-x64.exe",
-  "sha256": "DB2FEABEA4943713CE4EEA387118FF56883F8F7D8202DA018D813F6C6BD383A4",
-  "sizeBytes": 58269374,
-  "releaseNotes": "Miniaturas mais nítidas no painel compacto e na grade, com redimensionamento de alta qualidade e consumo de memória limitado."
+  "version": "0.2.0-beta.40",
+  "publishedAt": "2026-09-21T21:22:28Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.40/Pouso-Setup-0.2.0-beta.40-win-x64.exe",
+  "sha256": "84AD3DCD8A731D6938F2E177413E38959C11C7BE706ADEE823C7C9BBBE951FA5",
+  "sizeBytes": 58252794,
+  "releaseNotes": "Impede a expansão acidental ao abrir o Pouso. A visualização completa passa a abrir somente pelo botão Expandir; miniaturas nítidas preservadas."
 }
