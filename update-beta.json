@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.40",
-  "publishedAt": "2026-09-21T21:22:28Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.40/Pouso-Setup-0.2.0-beta.40-win-x64.exe",
-  "sha256": "84AD3DCD8A731D6938F2E177413E38959C11C7BE706ADEE823C7C9BBBE951FA5",
-  "sizeBytes": 58252794,
-  "releaseNotes": "Impede a expansão acidental ao abrir o Pouso. A visualização completa passa a abrir somente pelo botão Expandir; miniaturas nítidas preservadas."
+  "version": "0.2.0-beta.41",
+  "publishedAt": "2026-09-21T21:37:29Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.41/Pouso-Setup-0.2.0-beta.41-win-x64.exe",
+  "sha256": "6F9FFC1E897F316697D2D58820D6D6C260DACF34D2839B7D420D00ABBB4F8EF1",
+  "sizeBytes": 58268833,
+  "releaseNotes": "Visualização completa reorganizada: Compactar explícito, barra com Colar, Adicionar, busca e Sincronizar, filtros separados e ações dos itens exibidas sob demanda."
 }
