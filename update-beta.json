@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.35",
-  "publishedAt": "2026-09-17T23:52:29.7592209Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.35/Pouso-Setup-0.2.0-beta.35-win-x64.exe",
-  "sha256": "CE3342D2A78941A24837EE6EC1DA794BF2A5A6A6C91DF1A7C96B23F61AE05A41",
-  "sizeBytes": 58246475,
-  "releaseNotes": "Envio interno entre computadores: escolha Mac e prateleira sem criar link público, com cópia durável, fila recuperável e reconciliação contra duplicações. Beta para teste pessoal; instalador sem assinatura digital."
+  "version": "0.2.0-beta.37",
+  "publishedAt": "2026-09-21T00:00:00Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.37/Pouso-Setup-0.2.0-beta.37-win-x64.exe",
+  "sha256": "8101F2F053AA80A619FC04014CD4CEEEB2C1D0B6F742BC819F3934435B949B9C",
+  "sizeBytes": 58266694,
+  "releaseNotes": "Base visual alinhada ao Mac, com ícones vetoriais e botões padronizados. Seletor de destino refinado e revisão editável do OCR com formatação local antes de copiar. Expansão por clique preservada."
 }
