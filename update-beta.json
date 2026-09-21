@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.42",
-  "publishedAt": "2026-09-21T22:08:29Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.42/Pouso-Setup-0.2.0-beta.42-win-x64.exe",
-  "sha256": "D910832A5CA955B600B3F7811825DBAEF1801BD120118EF2358A4BEAF297CAB0",
-  "sizeBytes": 58247732,
-  "releaseNotes": "Miniaturas locais de documentos: primeira página de PDFs e conteúdo inicial de TXT/Markdown nos modos compacto e expandido."
+  "version": "0.2.0-beta.43",
+  "publishedAt": "2026-09-21T23:03:06.7480798+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.43/Pouso-Setup-0.2.0-beta.43-win-x64.exe",
+  "sha256": "DE4FD205E90C4F61971B6DC854CAF84F880BD1755CD6C06F2240E2CB529E5B41",
+  "sizeBytes": 58470729,
+  "releaseNotes": "Novo ícone do Pouso no executável, atalhos e bandeja; duplo clique na miniatura compacta abre a visualização."
 }

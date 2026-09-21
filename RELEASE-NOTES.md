@@ -1,3 +1,15 @@
+# Pouso 0.2.0-beta.43
+
+## Novo ícone e abertura da miniatura
+
+- Novo ícone com paraquedas e documento no executável, atalhos, barra de tarefas e bandeja.
+- A bandeja deixa de usar a seta antiga e passa a compartilhar o ICO multirresolução do aplicativo.
+- Duplo clique na miniatura compacta abre a visualização do item.
+- 230 testes automatizados aprovados.
+- Instalador sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.35
 
 ## Envio interno para outro computador
