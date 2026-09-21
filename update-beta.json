@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.38",
-  "publishedAt": "2026-09-21T12:00:00Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.38/Pouso-Setup-0.2.0-beta.38-win-x64.exe",
-  "sha256": "21BF3B79D174F13F5A961EC07DF64FC49FD2FD517F95094BCCDE0A86721D31CA",
-  "sizeBytes": 58271611,
-  "releaseNotes": "Painel compacto redesenhado: prévia maior, nome e descrição do item, contador e navegação por setas, roda do mouse e teclado. A expansão por clique foi preservada."
+  "version": "0.2.0-beta.39",
+  "publishedAt": "2026-09-21T21:12:59Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.39/Pouso-Setup-0.2.0-beta.39-win-x64.exe",
+  "sha256": "DB2FEABEA4943713CE4EEA387118FF56883F8F7D8202DA018D813F6C6BD383A4",
+  "sizeBytes": 58269374,
+  "releaseNotes": "Miniaturas mais nítidas no painel compacto e na grade, com redimensionamento de alta qualidade e consumo de memória limitado."
 }
