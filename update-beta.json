@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.37",
-  "publishedAt": "2026-09-21T00:00:00Z",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.37/Pouso-Setup-0.2.0-beta.37-win-x64.exe",
-  "sha256": "8101F2F053AA80A619FC04014CD4CEEEB2C1D0B6F742BC819F3934435B949B9C",
-  "sizeBytes": 58266694,
-  "releaseNotes": "Base visual alinhada ao Mac, com ícones vetoriais e botões padronizados. Seletor de destino refinado e revisão editável do OCR com formatação local antes de copiar. Expansão por clique preservada."
+  "version": "0.2.0-beta.38",
+  "publishedAt": "2026-09-21T12:00:00Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.38/Pouso-Setup-0.2.0-beta.38-win-x64.exe",
+  "sha256": "21BF3B79D174F13F5A961EC07DF64FC49FD2FD517F95094BCCDE0A86721D31CA",
+  "sizeBytes": 58271611,
+  "releaseNotes": "Painel compacto redesenhado: prévia maior, nome e descrição do item, contador e navegação por setas, roda do mouse e teclado. A expansão por clique foi preservada."
 }
