@@ -1,3 +1,21 @@
+# Pouso 0.2.0-beta.44
+
+## Estabilidade, recuperação e segurança
+
+- Backup local e restauração assistida das prateleiras, preservando os dados atuais antes de recuperar uma cópia.
+- Gravação mais segura das prateleiras e recuperação da cópia de segurança quando o arquivo principal está inválido.
+- Falhas de persistência passam a ser informadas sem encerrar silenciosamente o aplicativo ou descartar a alteração sem aviso.
+- Validação mais estrita de URLs, redirecionamentos, endereços de rede e tamanho de respostas ao ler links e atualizações.
+- Sincronização com o Drive verifica espaço e limites antes de importar; credenciais são isoladas por integração e buffers temporários são limpos.
+- Remoção de itens e prateleiras trata falhas de gravação e limpeza preservando os dados recuperáveis.
+
+## Validação e distribuição
+
+- 246 testes automatizados aprovados.
+- Instalador beta distribuído diretamente; sem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.43
 
 ## Novo ícone e abertura da miniatura

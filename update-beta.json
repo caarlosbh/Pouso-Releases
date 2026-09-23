@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.43",
-  "publishedAt": "2026-09-21T23:03:06.7480798+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.43/Pouso-Setup-0.2.0-beta.43-win-x64.exe",
-  "sha256": "DE4FD205E90C4F61971B6DC854CAF84F880BD1755CD6C06F2240E2CB529E5B41",
-  "sizeBytes": 58470729,
-  "releaseNotes": "Novo ícone do Pouso no executável, atalhos e bandeja; duplo clique na miniatura compacta abre a visualização."
+  "version": "0.2.0-beta.44",
+  "publishedAt": "2026-09-23T16:38:10.6146589+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.44/Pouso-Setup-0.2.0-beta.44-win-x64.exe",
+  "sha256": "3C85E7C8DAE26C5E0A512EF3160DE3F47B9C2DB33CA2B0BDC7043CAEB65AD4F9",
+  "sizeBytes": 58428868,
+  "releaseNotes": "Backup e restauração local; gravação resiliente das prateleiras; validação de rede, links e atualizações; importações do Drive mais seguras; 246 testes aprovados."
 }
