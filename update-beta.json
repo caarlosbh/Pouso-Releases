@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.44",
-  "publishedAt": "2026-09-23T16:38:10.6146589+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.44/Pouso-Setup-0.2.0-beta.44-win-x64.exe",
-  "sha256": "3C85E7C8DAE26C5E0A512EF3160DE3F47B9C2DB33CA2B0BDC7043CAEB65AD4F9",
-  "sizeBytes": 58428868,
-  "releaseNotes": "Backup e restauração local; gravação resiliente das prateleiras; validação de rede, links e atualizações; importações do Drive mais seguras; 246 testes aprovados."
+  "version": "0.2.0-beta.45",
+  "publishedAt": "2026-09-25T12:08:01Z",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.45/Pouso-Setup-0.2.0-beta.45-win-x64.exe",
+  "sha256": "341BA47DF59CC701E46B16CB0863CED75E95608B349187F6C672409B136063B1",
+  "sizeBytes": 58490171,
+  "releaseNotes": "Prévia de áudio dentro do Pouso; cópias pelo Explorador; exportação de imagens para outros formatos. 256 testes aprovados."
 }

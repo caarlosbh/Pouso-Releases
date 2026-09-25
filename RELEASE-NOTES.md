@@ -141,3 +141,15 @@
 - Instalador e manifesto verificados por SHA-256.
 
 Esta compilação ainda não possui assinatura Authenticode e pode exibir um aviso do Windows SmartScreen.
+# Pouso 0.2.0-beta.45
+
+## Áudio, cópias e imagens
+
+- Pré-visualização de áudio dentro do Pouso com reprodução, pausa, duração e busca na faixa; não abre um player externo.
+- A opção do menu de contexto do Explorador envia uma cópia independente de arquivos para a Caixa de entrada, preservando o original.
+- A seleção de vários arquivos pelo menu do Explorador é encaminhada como cópias separadas.
+- Exportação de imagens para JPG, PNG, BMP ou TIFF, com opções de tamanho e qualidade JPEG.
+- 256 testes automatizados aprovados; tela de áudio validada visualmente.
+- Instalador sem assinatura Authenticode.
+
+---
