@@ -5,6 +5,6 @@
   "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.49/Pouso-Setup-0.2.0-beta.49-win-x64.exe",
   "sha256": "6112775E66ACBDC896B3C28ED4573BF902F2A64068CFCCDCB4D357DEFDC65BA7",
   "sizeBytes": 58515857,
-  "releaseNotes": "English Inbox label fixed. Experimental Windows-to-iPhone transfers and unified Google Drive authorization. Physical iPhone validation is pending.",
-  "releaseNotesPtBr": "Corrigido o nome da Caixa de entrada em inglês. Envio Windows para iPhone e autorização unificada do Google Drive em fase beta; validação no iPhone físico pendente."
+  "releaseNotes": "English Inbox label fixed. Windows-to-iPhone transfers worked on a physical device, including a large file and network interruption (user report). Unified Google Drive authorization.",
+  "releaseNotesPtBr": "Corrigido o nome da Caixa de entrada em inglês. O envio Windows para iPhone funcionou no aparelho físico, inclusive arquivo grande e queda de rede (relato do usuário). Autorização Google Drive unificada."
 }
