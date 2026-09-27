@@ -8,7 +8,7 @@
 - Preserved the record of already received files when the OAuth client changes for the same Google account, along with earlier share history and upload recovery.
 - 264 automated .NET tests passed. Swift tests, localization checks, and the iOS Simulator build passed in CI.
 
-After publication, the user reported successful Windows → iPhone tests on a physical device, including a large file, network interruption, resume, and no duplicates. Historical Drive access under the new authorization still needs a directed check. The iPhone app is not included in this Windows installer. The installer is not signed with Authenticode.
+After publication, the user reported successful Windows → iPhone tests on a physical device, including a large file, network interruption, resume, and no duplicates. A read-only check with the existing Google account found all 13 legacy-visible historical IDs in the sample accessible through `drive.file`; one historical file downloaded successfully. This was not an exhaustive check of all local records. The iPhone app is not included in this Windows installer. The installer is not signed with Authenticode.
 
 ---
 
