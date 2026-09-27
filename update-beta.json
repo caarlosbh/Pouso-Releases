@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.49",
-  "publishedAt": "2026-09-27T14:54:56.6221298+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.49/Pouso-Setup-0.2.0-beta.49-win-x64.exe",
-  "sha256": "6112775E66ACBDC896B3C28ED4573BF902F2A64068CFCCDCB4D357DEFDC65BA7",
-  "sizeBytes": 58515857,
-  "releaseNotes": "English Inbox label fixed. Windows-to-iPhone transfers worked on a physical device, including a large file and network interruption (user report). Unified Google Drive authorization.",
-  "releaseNotesPtBr": "Corrigido o nome da Caixa de entrada em inglês. O envio Windows para iPhone funcionou no aparelho físico, inclusive arquivo grande e queda de rede (relato do usuário). Autorização Google Drive unificada."
+  "version": "0.2.0-beta.50",
+  "publishedAt": "2026-09-27T23:41:24.1335873+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.50/Pouso-Setup-0.2.0-beta.50-win-x64.exe",
+  "sha256": "AE87EEF7E3B1EDD3CD166E735834394EEB8847661A1FE08D867C6582CC15DA91",
+  "sizeBytes": 58539114,
+  "releaseNotes": "Google Drive account controls in Settings: view, change, or disconnect the connected account. Earlier files and links remain in their original account.",
+  "releaseNotesPtBr": "Controles da conta Google Drive nas Configurações: visualizar, trocar ou desconectar a conta. Arquivos e links anteriores permanecem na conta em que foram criados."
 }
