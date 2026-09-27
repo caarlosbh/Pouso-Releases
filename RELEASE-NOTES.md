@@ -1,3 +1,17 @@
+# Pouso 0.2.0-beta.49
+
+## Windows and iPhone beta
+
+- Fixed the Inbox label when English is selected.
+- Added iPhone as a destination for internal transfers when the matching iPhone development build publishes its device catalog.
+- Bundled the Windows Google Desktop OAuth client. Sharing links, receiving from Drive, and transfers use one `drive.file` authorization; Google may ask for consent again.
+- Preserved the record of already received files when the OAuth client changes for the same Google account, along with earlier share history and upload recovery.
+- 264 automated .NET tests passed. Swift tests, localization checks, and the iOS Simulator build passed in CI.
+
+Windows → iPhone receiving and historical Drive access under the new authorization still need physical validation. The iPhone app is not included in this Windows installer. The installer is not signed with Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.47
 
 ## Language setting fix

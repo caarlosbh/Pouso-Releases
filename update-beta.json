@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.47",
-  "publishedAt": "2026-09-27T13:23:31.9972329+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.47/Pouso-Setup-0.2.0-beta.47-win-x64.exe",
-  "sha256": "047A230946A87E9CFFA6E2E01A42E4C2F6C8B37F944E8D6680DB6E621DE4C743",
-  "sizeBytes": 58520825,
-  "releaseNotes": "Fixed language changes being blocked by an unavailable global shortcut. Other settings now save while previous shortcuts are kept if a new shortcut conflicts.",
-  "releaseNotesPtBr": "Corrigida a troca de idioma bloqueada por um atalho global indisponível. Se um novo atalho entrar em conflito, os demais ajustes são salvos e os atalhos anteriores são mantidos."
+  "version": "0.2.0-beta.49",
+  "publishedAt": "2026-09-27T14:54:56.6221298+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.49/Pouso-Setup-0.2.0-beta.49-win-x64.exe",
+  "sha256": "6112775E66ACBDC896B3C28ED4573BF902F2A64068CFCCDCB4D357DEFDC65BA7",
+  "sizeBytes": 58515857,
+  "releaseNotes": "English Inbox label fixed. Experimental Windows-to-iPhone transfers and unified Google Drive authorization. Physical iPhone validation is pending.",
+  "releaseNotesPtBr": "Corrigido o nome da Caixa de entrada em inglês. Envio Windows para iPhone e autorização unificada do Google Drive em fase beta; validação no iPhone físico pendente."
 }
