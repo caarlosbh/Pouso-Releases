@@ -1,3 +1,17 @@
+# Pouso 0.2.0-beta.46
+
+## English and Brazilian Portuguese
+
+- English is the default for new Windows installations. Brazilian Portuguese is available in Settings.
+- Existing installations keep Brazilian Portuguese until the user selects another language. Restart Pouso to apply a language change.
+- The app interface, notifications, update flow, Explorer actions, and installer have English and Brazilian Portuguese text.
+- Existing shelf names and Google Drive folder names remain unchanged to preserve compatibility with Mac and iPhone.
+- 259 automated Windows tests passed. The translation catalog check found no missing referenced keys.
+
+The installer is not signed with Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.44
 
 ## Estabilidade, recuperação e segurança
