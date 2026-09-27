@@ -1,3 +1,16 @@
+# Pouso 0.2.0-beta.47
+
+## Language setting fix
+
+- Changing the app language no longer retries unchanged global shortcuts, which could prevent settings from being saved.
+- If a newly chosen global shortcut conflicts with another app, the other settings are saved and the previous shortcuts remain in place.
+- The selected language takes effect after restarting Pouso.
+- 260 automated Windows tests passed, including a regression test for saving English after a shortcut conflict.
+
+The installer is not signed with Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.46
 
 ## English and Brazilian Portuguese

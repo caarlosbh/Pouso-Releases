@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.46",
-  "publishedAt": "2026-09-27T13:10:35.4093069+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.46/Pouso-Setup-0.2.0-beta.46-win-x64.exe",
-  "sha256": "BF71C75AF3950B8ACE908CB97C0E21B49840DD8EB34E2121315D371A4F81425A",
-  "sizeBytes": 58531420,
-  "releaseNotes": "English is now available throughout Pouso for Windows and is the default for new installations. Brazilian Portuguese remains available in Settings.",
-  "releaseNotesPtBr": "O Pouso para Windows agora oferece inglês em toda a interface, como padrão em novas instalações. Português brasileiro continua disponível em Ajustes."
+  "version": "0.2.0-beta.47",
+  "publishedAt": "2026-09-27T13:23:31.9972329+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.47/Pouso-Setup-0.2.0-beta.47-win-x64.exe",
+  "sha256": "047A230946A87E9CFFA6E2E01A42E4C2F6C8B37F944E8D6680DB6E621DE4C743",
+  "sizeBytes": 58520825,
+  "releaseNotes": "Fixed language changes being blocked by an unavailable global shortcut. Other settings now save while previous shortcuts are kept if a new shortcut conflicts.",
+  "releaseNotesPtBr": "Corrigida a troca de idioma bloqueada por um atalho global indisponível. Se um novo atalho entrar em conflito, os demais ajustes são salvos e os atalhos anteriores são mantidos."
 }
