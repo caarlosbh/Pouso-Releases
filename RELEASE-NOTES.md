@@ -1,3 +1,16 @@
+# Pouso 0.2.0-beta.53
+
+## Cleaner expanded shelf
+
+- Add and Send are on the left; Filter and Sync are on the right; search is at the bottom.
+- Sort, share history, list/grid view, grouping, shelf color, and settings are grouped in the More menu.
+- Send offers iPhone or another device through the destination picker, plus a Public link.
+- 268 automated .NET tests passed. The installed build was checked with the expanded-shelf visual render.
+
+The installer is not signed with Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.49
 
 ## Windows and iPhone beta

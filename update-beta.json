@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.52",
-  "publishedAt": "2026-09-28T00:58:27.5231535+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.52/Pouso-Setup-0.2.0-beta.52-win-x64.exe",
-  "sha256": "6AFEFDF35861E73497246DED10D3177838B641F90085AD67159B2B2EAE9E2840",
-  "sizeBytes": 58529600,
-  "releaseNotes": "Send to no longer lists this Windows computer or its previous test installations.",
-  "releaseNotesPtBr": "Enviar para não mostra mais este Windows nem suas instalações de teste anteriores."
+  "version": "0.2.0-beta.53",
+  "publishedAt": "2026-09-28T10:06:51.2121591+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.53/Pouso-Setup-0.2.0-beta.53-win-x64.exe",
+  "sha256": "5387FE4B647CAFC933C08ED3C7943CD473B089B42D9A28BD04FE710C80CB51AC",
+  "sizeBytes": 58554760,
+  "releaseNotes": "Cleaner expanded shelf: Add and Send on the left, Filter and Sync on the right, search at the bottom. Send menu: iPhone or another device and Public link.",
+  "releaseNotesPtBr": "Prateleira expandida mais organizada: Adicionar e Enviar à esquerda, Filtro e Sincronizar à direita, busca embaixo. Menu Enviar: iPhone ou outro aparelho e Link público."
 }
