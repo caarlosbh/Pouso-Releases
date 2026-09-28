@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.50",
-  "publishedAt": "2026-09-27T23:41:24.1335873+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.50/Pouso-Setup-0.2.0-beta.50-win-x64.exe",
-  "sha256": "AE87EEF7E3B1EDD3CD166E735834394EEB8847661A1FE08D867C6582CC15DA91",
-  "sizeBytes": 58539114,
-  "releaseNotes": "Google Drive account controls in Settings: view, change, or disconnect the connected account. Earlier files and links remain in their original account.",
-  "releaseNotesPtBr": "Controles da conta Google Drive nas Configurações: visualizar, trocar ou desconectar a conta. Arquivos e links anteriores permanecem na conta em que foram criados."
+  "version": "0.2.0-beta.51",
+  "publishedAt": "2026-09-28T00:02:57.1752382+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.51/Pouso-Setup-0.2.0-beta.51-win-x64.exe",
+  "sha256": "C74D3F8D52822ACC6BFBD890E2913BA18A7767031224A666ACBC66F6F06780C5",
+  "sizeBytes": 58537086,
+  "releaseNotes": "Google Drive account authorization now has a visible Cancel authorization button. Cancelling returns to Settings and preserves the previous account.",
+  "releaseNotesPtBr": "A autorização da conta Google Drive agora tem o botão Cancelar autorização. O cancelamento volta às Configurações e preserva a conta anterior."
 }
