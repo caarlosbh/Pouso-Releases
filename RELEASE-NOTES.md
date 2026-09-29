@@ -1,3 +1,16 @@
+# Pouso 0.2.0-beta.54
+
+## Visual do Pouso no Windows
+
+- Cabeçalho, controles, prévias dos itens, troca de prateleira e Configurações seguem a identidade visual compartilhada com o Mac.
+- Os fluxos de arquivos, atalhos, envios e dados locais permanecem como na beta 53.
+- O instalador inclui o cliente OAuth Desktop já usado nas betas anteriores; autorizações existentes são preservadas.
+- 268 testes automatizados .NET passaram. A beta 54 foi instalada e a sincronização da Caixa de entrada foi conferida neste Windows antes da reconstrução final do instalador.
+
+O instalador não tem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.53
 
 ## Cleaner expanded shelf

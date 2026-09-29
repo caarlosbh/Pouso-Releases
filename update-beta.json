@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.53",
-  "publishedAt": "2026-09-28T10:06:51.2121591+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.53/Pouso-Setup-0.2.0-beta.53-win-x64.exe",
-  "sha256": "5387FE4B647CAFC933C08ED3C7943CD473B089B42D9A28BD04FE710C80CB51AC",
-  "sizeBytes": 58554760,
-  "releaseNotes": "Cleaner expanded shelf: Add and Send on the left, Filter and Sync on the right, search at the bottom. Send menu: iPhone or another device and Public link.",
-  "releaseNotesPtBr": "Prateleira expandida mais organizada: Adicionar e Enviar à esquerda, Filtro e Sincronizar à direita, busca embaixo. Menu Enviar: iPhone ou outro aparelho e Link público."
+  "version": "0.2.0-beta.54",
+  "publishedAt": "2026-09-29T00:36:47.6949072+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.54/Pouso-Setup-0.2.0-beta.54-win-x64.exe",
+  "sha256": "18119ADF57D8E5DB5720C7B51D54FC7E5CA926AB4D7FFB3DDA3B412B24C095F8",
+  "sizeBytes": 58558682,
+  "releaseNotes": "Windows visual refresh aligned with the Pouso design system: clearer shelf header, item previews, controls and settings.",
+  "releaseNotesPtBr": "Novo visual do Pouso no Windows: cabeçalho da prateleira, prévias, controles e Configurações mais claros e consistentes."
 }
