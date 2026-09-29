@@ -1,3 +1,16 @@
+# Pouso 0.2.0-beta.55
+
+## Tamanho da prateleira expandida
+
+- Em Configurações → Geral, escolha entre 75% e 100% em passos de 1%, incluindo 81%.
+- O tamanho escolhido é salvo; o modo compacto permanece igual.
+- Em tamanhos menores, as ações usam ícones com dicas, sem reduzir a letra dos itens.
+- 274 testes automatizados .NET passaram. A conferência visual cobriu grade em 75% e 81%, e lista em 75%.
+
+O instalador não tem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.54
 
 ## Visual do Pouso no Windows

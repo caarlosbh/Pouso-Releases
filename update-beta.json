@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.54",
-  "publishedAt": "2026-09-29T00:36:47.6949072+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.54/Pouso-Setup-0.2.0-beta.54-win-x64.exe",
-  "sha256": "18119ADF57D8E5DB5720C7B51D54FC7E5CA926AB4D7FFB3DDA3B412B24C095F8",
-  "sizeBytes": 58558682,
-  "releaseNotes": "Windows visual refresh aligned with the Pouso design system: clearer shelf header, item previews, controls and settings.",
-  "releaseNotesPtBr": "Novo visual do Pouso no Windows: cabeçalho da prateleira, prévias, controles e Configurações mais claros e consistentes."
+  "version": "0.2.0-beta.55",
+  "publishedAt": "2026-09-29T01:35:41.9778459+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.55/Pouso-Setup-0.2.0-beta.55-win-x64.exe",
+  "sha256": "22EC753089F5138B4979413DD08723752A4768C12C3FF0A35B009E42A157F5CE",
+  "sizeBytes": 58539064,
+  "releaseNotes": "Choose the expanded shelf size from 75% to 100% in Settings. Compact mode is unchanged.",
+  "releaseNotesPtBr": "Escolha o tamanho da prateleira expandida de 75% a 100% em Configurações. O modo compacto não muda."
 }
