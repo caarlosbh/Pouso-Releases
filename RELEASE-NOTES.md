@@ -1,3 +1,18 @@
+# Pouso 0.2.0-beta.56
+
+## Envio pelo menu do Explorador
+
+- Corrige **Enviar cópia para o Pouso** e **Adicionar pasta ao Pouso** para passar o caminho completo entre aspas.
+- Recupera caminhos com espaços enviados por uma integração antiga sem aspas.
+- Atualiza as associações do Explorador durante a instalação.
+- 275 testes automatizados .NET passaram.
+
+Em sessões que já carregaram a ação antiga, pode ser necessário reiniciar o Explorador de Arquivos ou entrar novamente no Windows. Os arquivos originais são preservados; o Pouso adiciona cópias à Caixa de entrada.
+
+O instalador não tem assinatura Authenticode.
+
+---
+
 # Pouso 0.2.0-beta.55
 
 ## Tamanho da prateleira expandida

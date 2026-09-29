@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.55",
-  "publishedAt": "2026-09-29T01:35:41.9778459+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.55/Pouso-Setup-0.2.0-beta.55-win-x64.exe",
-  "sha256": "22EC753089F5138B4979413DD08723752A4768C12C3FF0A35B009E42A157F5CE",
-  "sizeBytes": 58539064,
-  "releaseNotes": "Choose the expanded shelf size from 75% to 100% in Settings. Compact mode is unchanged.",
-  "releaseNotesPtBr": "Escolha o tamanho da prateleira expandida de 75% a 100% em Configurações. O modo compacto não muda."
+  "version": "0.2.0-beta.56",
+  "publishedAt": "2026-09-29T15:44:24.2070897+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.56/Pouso-Setup-0.2.0-beta.56-win-x64.exe",
+  "sha256": "3154742FF3576BB9942D2D02B14B74C329BBA343A85F563001C85EE3F38ABDF1",
+  "sizeBytes": 58542910,
+  "releaseNotes": "Fix Explorer Send copy to Pouso. If an open Explorer session still uses the old action, restart File Explorer.",
+  "releaseNotesPtBr": "Corrige Enviar cópia para o Pouso no Explorador. Se uma sessão aberta ainda usar a ação antiga, reinicie o Explorador de Arquivos."
 }
