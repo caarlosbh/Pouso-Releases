@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.56",
-  "publishedAt": "2026-09-29T15:44:24.2070897+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.56/Pouso-Setup-0.2.0-beta.56-win-x64.exe",
-  "sha256": "3154742FF3576BB9942D2D02B14B74C329BBA343A85F563001C85EE3F38ABDF1",
-  "sizeBytes": 58542910,
-  "releaseNotes": "Fix Explorer Send copy to Pouso. If an open Explorer session still uses the old action, restart File Explorer.",
-  "releaseNotesPtBr": "Corrige Enviar cópia para o Pouso no Explorador. Se uma sessão aberta ainda usar a ação antiga, reinicie o Explorador de Arquivos."
+  "version": "0.2.0-beta.58",
+  "publishedAt": "2026-10-01T23:32:00+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.58/Pouso-Setup-0.2.0-beta.58-win-x64.exe",
+  "sha256": "A743B3EC90EE113043EC10594DF68F2357437FE707390D12FB5F5E5492D6A838",
+  "sizeBytes": 58560269,
+  "releaseNotes": "Restore the original native frame. Keep adjustable expanded size from 75% to 100%. Add shared Free/Pro license lookup in Sandbox. 293 tests passed.",
+  "releaseNotesPtBr": "Restaura a moldura anterior. Mantém o tamanho expandido ajustável de 75% a 100%. Adiciona consulta de licença Free/Pro compartilhada no Sandbox. 293 testes passaram."
 }

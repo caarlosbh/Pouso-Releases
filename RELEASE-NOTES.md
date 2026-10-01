@@ -1,3 +1,15 @@
+# Pouso 0.2.0-beta.58
+
+- Restaura a moldura nativa anterior nos modos compacto e expandido, sem o arredondamento personalizado da beta 57.
+- Mantém o ajuste de tamanho expandido de 75% a 100%, sem alterar a grade ou suas preferências.
+- Nova aba Licença: consulta Free/Pro compartilhado com Mac e iPhone pela conta Google, no Sandbox.
+- Credencial da licença separada do Drive, protegida no Windows; confirmação online temporária. Não habilita licença comercial de produção.
+- Preserva prateleiras, arquivos e configurações. 293 testes automatizados aprovados.
+
+O instalador não tem assinatura Authenticode. O canal verifica o download por SHA-256.
+
+---
+
 # Pouso 0.2.0-beta.56
 
 ## Envio pelo menu do Explorador
