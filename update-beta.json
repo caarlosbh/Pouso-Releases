@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.58",
-  "publishedAt": "2026-10-01T23:32:00+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.58/Pouso-Setup-0.2.0-beta.58-win-x64.exe",
-  "sha256": "A743B3EC90EE113043EC10594DF68F2357437FE707390D12FB5F5E5492D6A838",
-  "sizeBytes": 58560269,
-  "releaseNotes": "Restore the original native frame. Keep adjustable expanded size from 75% to 100%. Add shared Free/Pro license lookup in Sandbox. 293 tests passed.",
-  "releaseNotesPtBr": "Restaura a moldura anterior. Mantém o tamanho expandido ajustável de 75% a 100%. Adiciona consulta de licença Free/Pro compartilhada no Sandbox. 293 testes passaram."
+  "version": "0.2.0-beta.59",
+  "publishedAt": "2026-10-02T00:25:37+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.59/Pouso-Setup-0.2.0-beta.59-win-x64.exe",
+  "sha256": "99BED0519D5D738196894BBCCC7E04AE1302D1E136F83CD9A0546DFA09A25B22",
+  "sizeBytes": 58565153,
+  "releaseNotes": "Short-lived Pouso sessions and silent shared license renewal in Sandbox. Borders, layout and 75%-100% sizing unchanged. 319 tests passed.",
+  "releaseNotesPtBr": "Sessões temporárias Pouso e renovação silenciosa da licença compartilhada no Sandbox. Bordas, layout e tamanho de 75% a 100% mantidos. 319 testes passaram."
 }

@@ -1,3 +1,15 @@
+# Pouso 0.2.0-beta.59
+
+- Sessão Pouso temporária para consultas da licença compartilhada no Sandbox, mantida apenas em memória.
+- Renovação silenciosa da consulta aproximadamente a cada quatro minutos; recuperação de sessão com conta estável e revogação da sessão anterior.
+- Logout limpa direitos imediatamente e tenta revogar a sessão sem desconectar o Drive. Falhas e expiração nunca apagam arquivos.
+- Bordas, layout, grade e ajuste de tamanho de 75% a 100% mantidos como na beta 58.
+- 319 testes automatizados aprovados. Consulta real inicial reconheceu Pro sem novo login; acompanhamento do ciclo real de 15 minutos ainda pendente.
+
+Produção e licença offline não habilitadas. O instalador não tem assinatura Authenticode; download verificado por SHA-256.
+
+---
+
 # Pouso 0.2.0-beta.58
 
 - Restaura a moldura nativa anterior nos modos compacto e expandido, sem o arredondamento personalizado da beta 57.
