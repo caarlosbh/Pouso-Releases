@@ -1,3 +1,14 @@
+# Pouso 0.2.0-beta.61
+
+- Nome da prateleira com fonte menor e espaçamento ajustado para Caixa de entrada aparecer por inteiro no compacto.
+- Expandir com fonte menor, preservando a área de clique.
+- Bordas, Configurações móveis e tamanho de 75% a 100% preservados.
+- 326 testes aprovados e renderização conferida em cinco escalas de DPI.
+
+O instalador não tem assinatura Authenticode; download verificado por SHA-256.
+
+---
+
 # Pouso 0.2.0-beta.60
 
 - Configurações abre centralizada perto da prateleira, respeitando o monitor e a área disponível.

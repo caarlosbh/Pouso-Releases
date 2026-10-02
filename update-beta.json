@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.60",
-  "publishedAt": "2026-10-02T15:30:20+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.60/Pouso-Setup-0.2.0-beta.60-win-x64.exe",
-  "sha256": "774E6F011AC8E437D5F1839F78158E609E31E2469B83207F07548AAA7500F0B7",
-  "sizeBytes": 58552997,
-  "releaseNotes": "Settings opens near the shelf without moving Pouso. Drag the top strip to move settings. Borders, appearance and 75%-100% sizing preserved. 326 tests passed.",
-  "releaseNotesPtBr": "Configurações abre perto da prateleira sem deslocar o Pouso. Arraste a faixa superior para mover Configurações. Bordas, visual e tamanho de 75% a 100% preservados. 326 testes passaram."
+  "version": "0.2.0-beta.61",
+  "publishedAt": "2026-10-02T15:49:51+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.61/Pouso-Setup-0.2.0-beta.61-win-x64.exe",
+  "sha256": "F0DA0DCB5498727A6CBAD1A25BCE42EE34306C1EF3EA485CC41DA7F6E2B27D45",
+  "sizeBytes": 58562063,
+  "releaseNotes": "Smaller shelf title and Expand text. Inbox title fits the compact header. Borders, movable settings and 75%-100% sizing preserved. 326 tests passed.",
+  "releaseNotesPtBr": "Fontes menores no nome da prateleira e em Expandir. Caixa de entrada aparece inteira no compacto. Bordas, Configurações móveis e tamanho de 75% a 100% preservados. 326 testes passaram."
 }
