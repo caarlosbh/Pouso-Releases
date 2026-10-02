@@ -1,3 +1,15 @@
+# Pouso 0.2.0-beta.60
+
+- Configurações abre centralizada perto da prateleira, respeitando o monitor e a área disponível.
+- Abrir Configurações não desloca o Pouso para perto do mouse.
+- Arraste pela faixa superior livre para mover a janela de Configurações.
+- Bordas, cores, grade e ajuste de tamanho de 75% a 100% preservados.
+- 326 testes automatizados aprovados. Integração de licença Sandbox mantida; licença de produção não habilitada.
+
+O instalador não tem assinatura Authenticode; download verificado por SHA-256.
+
+---
+
 # Pouso 0.2.0-beta.59
 
 - Sessão Pouso temporária para consultas da licença compartilhada no Sandbox, mantida apenas em memória.
