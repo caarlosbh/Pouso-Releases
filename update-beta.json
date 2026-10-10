@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.61",
-  "publishedAt": "2026-10-02T15:49:51+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.61/Pouso-Setup-0.2.0-beta.61-win-x64.exe",
-  "sha256": "F0DA0DCB5498727A6CBAD1A25BCE42EE34306C1EF3EA485CC41DA7F6E2B27D45",
-  "sizeBytes": 58562063,
-  "releaseNotes": "Smaller shelf title and Expand text. Inbox title fits the compact header. Borders, movable settings and 75%-100% sizing preserved. 326 tests passed.",
-  "releaseNotesPtBr": "Fontes menores no nome da prateleira e em Expandir. Caixa de entrada aparece inteira no compacto. Bordas, Configurações móveis e tamanho de 75% a 100% preservados. 326 testes passaram."
+  "version": "0.2.0-beta.70",
+  "publishedAt": "2026-10-10T14:24:46.5973760+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.70/Pouso-Setup-0.2.0-beta.70-win-x64.exe",
+  "sha256": "F873658749A1B90E99B6FCD91D47A599F1CC90CC122E1E820835B9CE6BAF0570",
+  "sizeBytes": 58787661,
+  "releaseNotes": "Restore public links for synchronized profiles: consent, copy/open, local history and explicit revocation. Uses the linked account and separate copy folders; library snapshots stay private. 1,446 tests passed; real Google sharing validation pending.",
+  "releaseNotesPtBr": "Restaurados links públicos no perfil sincronizado: confirmação, copiar/abrir, histórico local e revogação explícita. Usa a conta vinculada e pastas separadas para cópias; snapshots da biblioteca permanecem privados. 1.446 testes aprovados; validação real do compartilhamento Google pendente."
 }
