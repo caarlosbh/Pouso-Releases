@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-beta.70",
-  "publishedAt": "2026-10-10T14:24:46.5973760+00:00",
-  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.70/Pouso-Setup-0.2.0-beta.70-win-x64.exe",
-  "sha256": "F873658749A1B90E99B6FCD91D47A599F1CC90CC122E1E820835B9CE6BAF0570",
-  "sizeBytes": 58787661,
-  "releaseNotes": "Restore public links for synchronized profiles: consent, copy/open, local history and explicit revocation. Uses the linked account and separate copy folders; library snapshots stay private. 1,446 tests passed; real Google sharing validation pending.",
-  "releaseNotesPtBr": "Restaurados links públicos no perfil sincronizado: confirmação, copiar/abrir, histórico local e revogação explícita. Usa a conta vinculada e pastas separadas para cópias; snapshots da biblioteca permanecem privados. 1.446 testes aprovados; validação real do compartilhamento Google pendente."
+  "version": "0.2.0-beta.71",
+  "publishedAt": "2026-10-16T14:25:49.5867752+00:00",
+  "installerUrl": "https://github.com/caarlosbh/Pouso-Releases/releases/download/v0.2.0-beta.71/Pouso-Setup-0.2.0-beta.71-win-x64.exe",
+  "sha256": "8D42431B671EC3BFD85926D69D3368BFD46BFDCFB01C2E59DD0A33AA16547683",
+  "sizeBytes": 58819743,
+  "releaseNotes": "Prepares sync devices v2 with its client flag OFF (NO). Existing library sync is preserved; no live Sandbox or Production activation. 1,501 solution tests passed, 98 targeted checks and 80 WPF renders verified.",
+  "releaseNotesPtBr": "Prepara aparelhos de sincronização v2 com a flag do cliente desligada (NO). Mantém a sincronização existente; sem ativar Sandbox ou Production. 1.501 testes aprovados, 98 verificações específicas e 80 renderizações WPF."
 }
